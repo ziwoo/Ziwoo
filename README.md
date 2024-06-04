@@ -1,4 +1,4 @@
-# 🖥️ Portfolio
+# 🖥️
 
 ##  JiWoo Jeong
 

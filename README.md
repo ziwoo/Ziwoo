@@ -2,7 +2,7 @@
 
 ##  JiWoo Jeong
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hello%20World&fontSize=90)
 
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 

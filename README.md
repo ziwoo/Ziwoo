@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🖥️
 
 ##  JiWoo Jeong
@@ -74,8 +72,6 @@ Moving Image & Technology (MINT) 2 (1), 14-17
 
 > AtrBox // Museum exhibition website // https://github.com/ziwoo/ArtBox
   
-</div>
-
 <!--
 **Ziwoo/Ziwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

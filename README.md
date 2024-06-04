@@ -2,7 +2,7 @@
 
 ##  JiWoo Jeong
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hello&desc=I'm%20Ziwoo&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Hello&desc=I'm%20Ziwoo&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 ![default](https://user-images.githubusercontent.com/45416751/49363568-56fbe700-f725-11e8-99cc-9672d27333ad.jpg)
 

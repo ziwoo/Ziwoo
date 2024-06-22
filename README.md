@@ -30,11 +30,11 @@ M.S in Department of Imaging Engineering, Chung-Ang University(2020 - 2022)
 
 * Joint-weight Scaling based Augmentation of 3D Skeleton Data for Human Activity Recognition
 JW Jeong, SS Park, DY Kim, YH Chai
-Korean Institute of Information Scientists and Engineers, 1,477 - 1,479 (3page)
+Korean Institute of Information Scientists and Engineers, 1,477 - 1,479
 
 * Sensor-Jacket based Human Activity Recognition for Interaction in Metaverse Environment
 DY Kim, JY Ryu, JW Jeong, , YH Chai
-Korean Institute of Information Scientists and Engineers, 1,501 - 1,503 (3page)
+Korean Institute of Information Scientists and Engineers, 1,501 - 1,503
 
 * A Study on Basic Human Activity Recognition Based on Sensor Jacket for Interaction in Metaverse Environment
 DY Kim, JW Jeong, YH Chai

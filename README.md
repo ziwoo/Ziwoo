@@ -16,8 +16,8 @@
 ![js](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![js](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-Game & Virtual Reality Content Developer (2022.11 ~ Now)    
-M.S in Department of Imaging Engineering, Chung-Ang University(2020 - 2022)
+Game & Virtual Reality Content Developer (2022 ~ Now)    
+M.S in Department of Imaging Engineering, Chung-Ang University(2020 ~ 2022)
 
 ## Research Interest
 
